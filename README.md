@@ -10,19 +10,20 @@ Clone a repository called [urban-octo-telegram](https://github.com/coding-boot-c
 ## Usage
 
 A programmer can uses this repo to review how to organize, consolidate, and to follow semantic structure of html and css.
+### Link
+https://ezekielcampos.github.io/challenge-1-bootcamp/
+### Screenshot 
+![alt text](./assets/images/Screenshot%202024-04-30%20at%2011.46.57 PM.png)
 
 As for the webpage it showcases the different services Horiseon offers, as well as the benefits that can come from using their services.
-
 
 ## Credit
 Xander Rapstine (provided starter code)
 * [GitHub](https://github.com/Xandromus)
 
-## Screenshot 
-![alt text](./assets/images/Screenshot%202024-04-30%20at%2011.46.57 PM.png)
 
-## Link
-https://ezekielcampos.github.io/challenge-1-bootcamp/
+
+
 
 
 
